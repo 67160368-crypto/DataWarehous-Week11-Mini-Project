@@ -10,7 +10,7 @@
 
 
 ## Dashboard
-ลิงค์ Power BI : https://app.powerbi.com/view?r=eyJrIjoiZjVmNjE0MTctMDU2MC00ZjM0LWFjNWQtM2NjNjg4YmMyZWNlIiwidCI6ImI2OWRkOWY0LTBjNmQtNDMxMC05ZDA1LTJjZjk0MzA3NTMzNSIsImMiOjEwfQ%3D%3D
+ลิงค์ Power BI : https://app.powerbi.com/view?r=eyJrIjoiYjIyMDRjZjUtMzg1Zi00MzhjLTk0ZWUtODA1ODdjNDQ3Y2I4IiwidCI6ImI2OWRkOWY0LTBjNmQtNDMxMC05ZDA1LTJjZjk0MzA3NTMzNSIsImMiOjEwfQ%3D%3D
 
 
 # KayKnow AI – AI Knowledge Assistant for Digital Industry
